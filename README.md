@@ -1,5 +1,10 @@
 # WebSearchEngine
 
+### Team Members
+1. Namrata Sanger
+2. Dewanshi Yadav
+3. Amritpal Singh
+
 ![image](https://user-images.githubusercontent.com/98185497/161659003-97cd168c-8bb8-4dd1-bda2-bf89347a81b5.png)
 
 # Searcher
